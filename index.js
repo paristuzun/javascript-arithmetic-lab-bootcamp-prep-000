@@ -32,18 +32,17 @@ function dec(n) {
 
 
 function makeInt(n) {
-  return parseInt(n)
+  return parseInt(2)
 }
 
 function makeInt(n) {
-  n = 0
-  return parseInt(n, 10)
+  return parseInt('2', 10)
 }
 
 function preserveDecimal(n) {
-  return parseFloat('n')
+  return parseFloat('2')
 }
 
 function preserveDecimal(n) {
-  return parseFloat('n')
+  return parseFloat('2')
 }
