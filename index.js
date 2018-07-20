@@ -28,9 +28,6 @@ function dec(n) {
   return n
 }
 
-// passed
-
-
 function makeInt(n) {
   return parseInt(n)
 }
@@ -38,6 +35,8 @@ function makeInt(n) {
 function makeInt(n) {
   return parseInt(n, 10)
 }
+
+// passed
 
 function preserveDecimal(n) {
   return parseFloat('n')
