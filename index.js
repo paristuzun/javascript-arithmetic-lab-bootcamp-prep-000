@@ -20,12 +20,13 @@ function makeInt(n) {
 
 // passed
 
+number++
 
 function inc(n) {
-  return n
- 
-}
+  return number
+ }
 
+number--
 
 function dec(n) {
   return number
