@@ -18,9 +18,6 @@ function makeInt(n) {
   parseInt('nonsense!', 10)
 }
 
-// passed
-
-
 function inc(n) {
   n++
   return n
@@ -30,6 +27,8 @@ function dec(n) {
   n--
   return n
 }
+
+// passed
 
 
 function makeInt(n) {
