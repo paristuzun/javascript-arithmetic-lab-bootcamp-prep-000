@@ -36,7 +36,8 @@ function makeInt(n) {
 }
 
 function makeInt(n) {
-  return parseInt('n', 10)
+  n = 0
+  return parseInt(n, 10)
 }
 
 function preserveDecimal(n) {
